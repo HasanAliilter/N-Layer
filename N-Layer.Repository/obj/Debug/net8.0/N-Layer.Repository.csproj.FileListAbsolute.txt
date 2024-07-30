@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\N-Layer\N-Layer.Repository\bin\Debug\net8.0\N-Layer.Repository.deps.json
+C:\Users\HP\source\repos\N-Layer\N-Layer.Repository\bin\Debug\net8.0\N-Layer.Repository.dll
+C:\Users\HP\source\repos\N-Layer\N-Layer.Repository\bin\Debug\net8.0\N-Layer.Repository.pdb
+C:\Users\HP\source\repos\N-Layer\N-Layer.Repository\bin\Debug\net8.0\N-Layer.Core.dll
+C:\Users\HP\source\repos\N-Layer\N-Layer.Repository\bin\Debug\net8.0\N-Layer.Core.pdb
+C:\Users\HP\source\repos\N-Layer\N-Layer.Repository\obj\Debug\net8.0\N-Layer.Repository.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\N-Layer\N-Layer.Repository\obj\Debug\net8.0\N-Layer.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\N-Layer\N-Layer.Repository\obj\Debug\net8.0\N-Layer.Repository.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\N-Layer\N-Layer.Repository\obj\Debug\net8.0\N-Layer.Repository.AssemblyInfo.cs
+C:\Users\HP\source\repos\N-Layer\N-Layer.Repository\obj\Debug\net8.0\N-Layer.Repository.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\N-Layer\N-Layer.Repository\obj\Debug\net8.0\N-Layer.Repository.csproj.CopyComplete
+C:\Users\HP\source\repos\N-Layer\N-Layer.Repository\obj\Debug\net8.0\N-Layer.Repository.dll
+C:\Users\HP\source\repos\N-Layer\N-Layer.Repository\obj\Debug\net8.0\refint\N-Layer.Repository.dll
+C:\Users\HP\source\repos\N-Layer\N-Layer.Repository\obj\Debug\net8.0\N-Layer.Repository.pdb
+C:\Users\HP\source\repos\N-Layer\N-Layer.Repository\obj\Debug\net8.0\ref\N-Layer.Repository.dll

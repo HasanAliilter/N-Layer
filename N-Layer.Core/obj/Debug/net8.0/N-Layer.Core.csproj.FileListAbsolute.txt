@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\N-Layer\N-Layer.Core\bin\Debug\net8.0\N-Layer.Core.deps.json
+C:\Users\HP\source\repos\N-Layer\N-Layer.Core\bin\Debug\net8.0\N-Layer.Core.dll
+C:\Users\HP\source\repos\N-Layer\N-Layer.Core\bin\Debug\net8.0\N-Layer.Core.pdb
+C:\Users\HP\source\repos\N-Layer\N-Layer.Core\obj\Debug\net8.0\N-Layer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\N-Layer\N-Layer.Core\obj\Debug\net8.0\N-Layer.Core.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\N-Layer\N-Layer.Core\obj\Debug\net8.0\N-Layer.Core.AssemblyInfo.cs
+C:\Users\HP\source\repos\N-Layer\N-Layer.Core\obj\Debug\net8.0\N-Layer.Core.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\N-Layer\N-Layer.Core\obj\Debug\net8.0\N-Layer.Core.dll
+C:\Users\HP\source\repos\N-Layer\N-Layer.Core\obj\Debug\net8.0\refint\N-Layer.Core.dll
+C:\Users\HP\source\repos\N-Layer\N-Layer.Core\obj\Debug\net8.0\N-Layer.Core.pdb
+C:\Users\HP\source\repos\N-Layer\N-Layer.Core\obj\Debug\net8.0\ref\N-Layer.Core.dll
