@@ -9,3 +9,4 @@ C:\Users\HP\source\repos\N-Layer\N-Layer.Core\obj\Debug\net8.0\N-Layer.Core.dll
 C:\Users\HP\source\repos\N-Layer\N-Layer.Core\obj\Debug\net8.0\refint\N-Layer.Core.dll
 C:\Users\HP\source\repos\N-Layer\N-Layer.Core\obj\Debug\net8.0\N-Layer.Core.pdb
 C:\Users\HP\source\repos\N-Layer\N-Layer.Core\obj\Debug\net8.0\ref\N-Layer.Core.dll
+C:\Users\HP\source\repos\N-Layer\N-Layer.Core\obj\Debug\net8.0\N-Layer.Core.sourcelink.json

@@ -13,3 +13,6 @@ C:\Users\HP\source\repos\N-Layer\N-Layer.Repository\obj\Debug\net8.0\N-Layer.Rep
 C:\Users\HP\source\repos\N-Layer\N-Layer.Repository\obj\Debug\net8.0\refint\N-Layer.Repository.dll
 C:\Users\HP\source\repos\N-Layer\N-Layer.Repository\obj\Debug\net8.0\N-Layer.Repository.pdb
 C:\Users\HP\source\repos\N-Layer\N-Layer.Repository\obj\Debug\net8.0\ref\N-Layer.Repository.dll
+C:\Users\HP\source\repos\N-Layer\N-Layer.Repository\bin\Debug\net8.0\N-Layer.Repository.runtimeconfig.json
+C:\Users\HP\source\repos\N-Layer\N-Layer.Repository\obj\Debug\net8.0\N-Layer.Repository.sourcelink.json
+C:\Users\HP\source\repos\N-Layer\N-Layer.Repository\obj\Debug\net8.0\N-Layer.Repository.genruntimeconfig.cache

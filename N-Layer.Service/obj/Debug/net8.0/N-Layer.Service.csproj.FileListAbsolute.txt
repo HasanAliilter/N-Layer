@@ -15,3 +15,4 @@ C:\Users\HP\source\repos\N-Layer\N-Layer.Service\obj\Debug\net8.0\N-Layer.Servic
 C:\Users\HP\source\repos\N-Layer\N-Layer.Service\obj\Debug\net8.0\refint\N-Layer.Service.dll
 C:\Users\HP\source\repos\N-Layer\N-Layer.Service\obj\Debug\net8.0\N-Layer.Service.pdb
 C:\Users\HP\source\repos\N-Layer\N-Layer.Service\obj\Debug\net8.0\ref\N-Layer.Service.dll
+C:\Users\HP\source\repos\N-Layer\N-Layer.Service\obj\Debug\net8.0\N-Layer.Service.sourcelink.json
